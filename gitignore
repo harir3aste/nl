@@ -1,0 +1,6 @@
+uuid.txt
+.web/
+.states/
+__pycache__/
+*.pyc
+assets/external/
